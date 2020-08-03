@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="162685342">
+    <data-source source="LOCAL" name="PostgreSQL - pgp_confeccion_development@localhost" uuid="0239321c-7cd1-47d1-82b4-91fa6bdd964c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/pgp_confeccion_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - pgp_confeccion_production@localhost" uuid="3394a28f-ba95-4c50-9ddf-2324f7f522dc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/pgp_confeccion_production</jdbc-url>
+    </data-source>
+  </component>
+</project>

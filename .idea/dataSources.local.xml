@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - pgp_confeccion_development@localhost" uuid="0239321c-7cd1-47d1-82b4-91fa6bdd964c">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>pgp_confeccion_development.pg_catalog pgp_confeccion_development.public</schema-pattern>
+      <default-schemas>pgp_confeccion_development.public</default-schemas>
+    </data-source>
+    <data-source name="PostgreSQL - pgp_confeccion_production@localhost" uuid="3394a28f-ba95-4c50-9ddf-2324f7f522dc">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>pgp_confeccion_production.pg_catalog pgp_confeccion_production.public</schema-pattern>
+      <default-schemas>pgp_confeccion_production.public</default-schemas>
+    </data-source>
+  </component>
+</project>
